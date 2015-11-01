@@ -1,0 +1,10 @@
+h1 { font-family: 'Lobster', cursive; font-weight: 500; }
+
+h2, h3, body { font-family: 'Cabin', sans-serif; }
+
+.icon-block {
+    padding: 0 15px;
+}
+.icon-block .material-icons {
+    font-size: inherit;
+}
